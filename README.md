@@ -23,5 +23,5 @@ Soy Técnico en Programación y Análisis de Sistemas, finalizando la carrera de
 ## 🔗 Contacto
 
 - 📧 mishimadamian@gmail.com  
-- 💼 [Perfil en LinkedIn (si tienes uno)](https://www.linkedin.com/in/tu-usuario)  
-- 📄 [Currículum actualizado (pronto incluiré el nuevo PDF aquí)]
+- 💼 [Perfil en LinkedIn (si tienes uno)](https://www.linkedin.com/in/damián-sasia/)  
+- 📄 [Currículum actualizado  
