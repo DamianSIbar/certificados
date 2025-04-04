@@ -29,4 +29,5 @@ Soy Técnico en Programación y Análisis de Sistemas, finalizando la carrera de
 
 Puedes ver o descargar mi currículum actualizado aquí:
 
-➡️ [CV Profesional (PDF)](./CV_Damian_Sasia_Ibar_2025.pdf)
+➡️ [CV Profesional (PDF)](./DAMI%C3%81N%20SASIA%20IBAR%20c.v%202025.pdf)
+
