@@ -9,8 +9,8 @@ Repositorio centralizado con los certificados obtenidos a lo largo de mi formaci
 *   **Ingeniero en Informática** – Instituto Profesional San Sebastián (Titulado, 2026)
 *   **AWS Certified Cloud Practitioner** – Amazon Web Services (2025)
 *   **Ruta de Aprendizaje: Inteligencia Artificial y Ciencia de Datos** (2026)
-*   **Diplomado en Desarrollo Full Stack con Python** – Fondo Talento Digital (2024-2025) 
-    *   [📎 Ver Certificado Diplomado (PDF)](./Certificado_Diplomado_Python_FullStack.pdf)
+*   **Diplomado en Desarrollo Full Stack con Python** – Fondo Talento Digital (2024-2025)
+    *   [📎 Ver Certificado Diplomado (PDF)](./Certificado_Diplomado_Python_FullStack.pdf.pdf)
 
 ---
 
