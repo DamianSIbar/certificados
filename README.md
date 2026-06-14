@@ -1,33 +1,44 @@
-# 📄 Certificados – Damián Sasia Ibar
+# 📄 Certificados y Formación – Damián Sasia Ibar
 
-Repositorio de certificados obtenidos en el marco de mi formación profesional en tecnologías de la información y desarrollo Full Stack.
+Repositorio centralizado con los certificados obtenidos a lo largo de mi formación profesional en Ingeniería Informática, Cloud Computing, Ciencia de Datos y Desarrollo de Software.
 
 ---
 
-## 🎓 Certificados Disponibles
+## 🎓 Certificados e Hitos Profesionales
 
-- **Diplomado en Desarrollo Full Stack con Python**  
-  [📎 Ver certificado (PDF)](./Certificado_Diplomado_Python_FullStack.pdf)
+*   **Ingeniero en Informática** – Instituto Profesional San Sebastián (Titulado, 2026)
+*   **AWS Certified Cloud Practitioner** – Amazon Web Services (2025)
+*   **Ruta de Aprendizaje: Inteligencia Artificial y Ciencia de Datos** (2026)
+*   **Diplomado en Desarrollo Full Stack con Python** – Fondo Talento Digital (2024-2025) 
+    *   [📎 Ver Certificado Diplomado (PDF)](./Certificado_Diplomado_Python_FullStack.pdf)
 
 ---
 
 ## 💼 Sobre mí
 
-Soy Técnico en Programación y Análisis de Sistemas, finalizando la carrera de Ingeniería en Informática. Con experiencia en soporte IT, plataformas LMS/CRM y desarrollo de soluciones web. Busco oportunidades como **Analista Programador** o **Desarrollador Junior**, idealmente en modalidad remota.
+Soy **Ingeniero en Informática** con un perfil híbrido orientado al desarrollo de soluciones tecnológicas de punta a punta, la gestión de infraestructura en la nube y la automatización de procesos. Cuento con 4 años de experiencia consolidada como Analista dentro del holding de ingeniería y construcción Sigdo Koppers, actuando como el puente definitivo entre las necesidades del negocio y los equipos técnicos en entornos de alta exigencia.
 
-> Idiomas: Español (nativo), Inglés (avanzado - C1)  
-> Tecnologías: Python, Django, PostgreSQL, Git, HTML/CSS, Scrum
+Me especializo en diseñar y mantener soluciones backend eficientes, construir arquitecturas e integraciones robustas de APIs y estructurar pipelines de datos aplicando herramientas modernas y modelos de Inteligencia Artificial.
+
+> 🗣️ **Idiomas:** Español (Nativo) | Inglés (Avanzado - C1)  
+> 🎯 **Enfoque de Roles:** Desarrollador Backend (Python/Django) | Full-Stack Engineer | Business Analyst Técnico
 
 ---
 
-## 🔗 Contacto
+## 🛠️ Tecnologías y Herramientas
 
-- 📧 mishimadamian@gmail.com  
-- 💼 [Perfil en LinkedIn ](https://www.linkedin.com/in/damián-sasia/)  
+*   **Lenguajes y Frameworks:** Python, Django, JavaScript, TypeScript, HTML5, CSS3.
+*   **Bases de Datos:** PostgreSQL, MySQL, NoSQL.
+*   **Cloud & DevOps:** AWS (S3, Lambda, Glue, RDS), Docker, CI/CD, Git / GitHub.
+*   **IA & Datos:** Modelos de Machine Learning, Ciencia de Datos, Automatización de Procesos.
+*   **Metodologías:** Ágiles (Scrum, Kanban), Gestión de Proyectos.
 
-## 📄 Currículum Vitae
+---
 
-Puedes ver o descargar mi currículum actualizado aquí:
+## 🔗 Contacto & Redes
 
-➡️ [CV Profesional (PDF)](./DAMI%C3%81N%20SASIA%20IBAR%20c.v%202025.pdf)
+*   💼 **LinkedIn:** [linkedin.com/in/damián-sasia](https://www.linkedin.com/in/dami%C3%A1n-sasia/)
+*   📧 **E-mail:** [mishimadamian@gmail.com](mailto:mishimadamian@gmail.com)
 
+---
+_Nota: Los archivos correspondientes a las nuevas certificaciones se irán incorporando a la raíz de este repositorio de manera progresiva._
